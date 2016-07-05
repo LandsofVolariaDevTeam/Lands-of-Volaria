@@ -1,0 +1,136 @@
+k_berguand = {
+	d_oudon = {
+		c_oudon = {
+			b_oudon = {}
+		}
+		c_tonnaigre = {
+			b_tonnaigre = {}
+		}
+		c_andryes = {
+			b_andryes = {}
+		}
+		c_miremy = {
+			b_miremy = {}
+		}
+		c_jouhe = {
+			b_jouhe = {}
+		}
+	}
+	d_mison = {
+		c_mison = {
+			b_mison = {}
+		}
+		c_palhaire = {
+			b_palhaire = {}
+		}
+		c_colleret = {
+			b_colleret = {}
+		}
+		c_albitreccia = {
+			b_albitreccia = {}
+		}
+		c_franceix = {
+			b_franceix = {}
+		}
+	}
+	d_berguand = {
+		c_berguand = {
+			b_berguand = {}
+		}
+		c_amigny = {
+			b_amigny = {}
+		}
+		c_verdiae = {
+			b_verdiae = {}
+		}
+		c_lau = {
+			b_lau = {}
+		}
+	}
+}
+
+k_marenas = {
+	d_marenas = {
+		c_marenas = {
+			b_marenas = {}
+		}
+		c_bretonville = {
+			b_bretonville = {}
+		}
+		c_moudet = {
+			b_moudet = {}
+		}
+		c_gimont = {
+			b_gimont = {}
+		}
+	}
+	d_baixas = {
+		c_baixas = {
+			b_baixas = {}
+		}
+		c_maquinghen = {
+			b_maquinghen = {}
+		}
+		c_fitignieu = {
+			b_fitignieu = {}
+		}
+		c_lanciae = {
+			b_lanciae = {}
+		}
+	}
+	d_sentein = {
+		c_sentein = {
+			b_sentein = {}
+		}
+		c_chailley = {
+			b_chailley = {}
+		}
+		c_frencq = {
+			b_frencq = {}
+		}
+	}
+}
+
+k_janice = {
+	d_janice = {
+		c_janice = {
+			b_janice = {}
+		}
+		c_gratens = {
+			b_gratens = {}
+		}
+		c_darcey = {
+			b_darcey = {}
+		}
+	}
+}
+
+k_janice = { # all same dynasty but different branches
+  d_xxxx = { # 3 prov
+  d_xxxx = { # 3 prov
+  d_xxxx = { # 3 prov
+
+k_welin = { # essentially a titular title
+  d_welin = { # the real title at start
+    #not sure how to put in merchant rep stuff
+
+k_inistara = { #free cities
+# thoughts needed on how to organize this group of cities
+
+k_nodaran_princedom = {
+  d_xxxx = { # 4 prov
+  d_xxxx = { # 4 prov
+  d_xxxx = { # 3 prov
+
+k_berethon = {
+  d_xxxx = { # 3 prov
+  d_xxxx = { # 2 prov
+
+k_thanes = {
+  d_xxxx = { # 4 prov
+  d_xxxx = { # 3 prov
+  d_xxxx = { # 3 prov
+
+k_creotoan = { # I kind of like one dude ruling all the island, but thoughts are welcome
+  d_xxxx = { # 4 prov (island)
+  d_xxxx = { # 2 prov (inland)
