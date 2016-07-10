@@ -103,34 +103,197 @@ k_janice = {
 			b_darcey = {}
 		}
 	}
+	d_fondettes = {
+		c_fondettes = {
+			b_fondettes {}
+		}
+		c_pisseleux = {
+			b_pisseleux = {}
+		}
+		c_lasgraisses = {
+			b_lasgraisses = {}
+		}
+	}
+	d_lutzelhouse = {
+		c_lutzelhouse = {
+			b_lutzelhouse = {}
+		}
+		c_blanchefontaine = {
+			b_blanchefontaine = {}
+		}
+		c_patrant = {
+			b_patrant = {}
+		}
+	}
+}
+k_welin = {
+	d_welin = {
+		c_welin = {
+			b_welin = {}
+		}
+	}
 }
 
-k_janice = { # all same dynasty but different branches
-  d_xxxx = { # 3 prov
-  d_xxxx = { # 3 prov
-  d_xxxx = { # 3 prov
-
-k_welin = { # essentially a titular title
-  d_welin = { # the real title at start
-    #not sure how to put in merchant rep stuff
-
-k_inistara = { #free cities
-# thoughts needed on how to organize this group of cities
-
+k_inistara = {
+	d_coffery = {
+		c_coffery = {
+			b_coffery = {}
+		}
+		c_aubissous = {
+			b_aubissous = {}
+		}
+		c_fonfrin = {
+			b_fonfrin = {}
+		}
+	}
+	d_laveyron = {
+		c_laveyron = {
+			b_laveyron = {}
+		}
+		c_moulidars = {
+			b_moulidars = {}
+		}
+		c_avy = {
+			b_avy = {}
+		}
+	}
+	d_montauban = {
+		c_montauban = {
+			b_montauban = {}
+		}
+		c_chamanche = {
+			b_chamanche = {}
+		}
+		c_soultz = {
+			b_soultz = {}
+		}
+	}
+}
 k_nodaran_princedom = {
-  d_xxxx = { # 4 prov
-  d_xxxx = { # 4 prov
-  d_xxxx = { # 3 prov
-
+	d_nodara = {
+		c_nodara = {
+			b_nodara = {}
+		}
+		c_seilles = {
+			b_seilles = {}
+		}
+		c_arpeix = {
+			b_arpeix = {}
+		}
+		c_jonvelle = {
+			b_jonvelle = {}
+		}
+	}
+	d_amaye = {
+		c_amaye = {
+			b_amaye = {}
+		}
+		c_doissat = {
+			b_doissat = {}
+		}
+		c_lubilhac = {
+			b_lubilhac = {}
+		}
+		c_mensignac = {
+			b_mensignac = {}
+		}
+	}
+	d_la_petite = {
+		c_la_petite = {
+			b_la_petite = {}
+		}
+		c_louit = {
+			b_louit = {}
+		}
+		c_fauch = {
+			b_fauch = {}
+		}
+	}
+}
 k_berethon = {
-  d_xxxx = { # 3 prov
-  d_xxxx = { # 2 prov
-
+	d_berethon = {
+		c_berethon = {
+			b_berethon = {}
+		}
+		c_granville = {
+			b_granville = {}
+		}
+		c_flamarens = {
+			b_flamarens = {}
+		}
+	}
+	d_broin = {
+		c_broin = {
+			b_broin = {}
+		}
+		c_godonville = {
+			b_godonville = {}
+		}
+	}
+}
 k_thanes = {
-  d_xxxx = { # 4 prov
-  d_xxxx = { # 3 prov
-  d_xxxx = { # 3 prov
+	d_thanes = {
+		c_thanes = {
+			b_thanes = {}
+		}
+		c_vezels = {
+			b_vezels = {}
+		}
+		c_jouaville = {
+			b_jouaville = {}
+		}
+		c_xivray = {
+			b_xivray = {}
+		}
+	}
+	d_anlezy = {
+		c_anlezy = {
+			b_anlezy = {}
+		}
+		c_sillegny = {
+			b_sillegny = {}
+		}
+		c_vayres = {
+			b_vayres = {}
+		}
+		c_yvrac = {
+			b_yvrac = {}
+		}
+	}
+	d_rochementru = {
+		c_rochementru = {
+			b_rochementru = {}
+		}
+		c_vaussuiean = {
+			b_vaussuiean = {}
+		}
+		c_sedan = {
+			b_sedan = {}
+		}
+	}
+}
 
-k_creotoan = { # I kind of like one dude ruling all the island, but thoughts are welcome
-  d_xxxx = { # 4 prov (island)
-  d_xxxx = { # 2 prov (inland)
+k_creotoan = {
+	d_creotoan = {
+		c_creotoan = {
+			b_creotoan = {}
+		}
+		c_bouconvillers = {
+			b_bouconvillers = {}
+		}
+	}
+	d_morlaincourt = {
+		c_morlaincourt = {
+			b_morlaincourt = {}
+		}
+		c_baslieux = {
+			b_baslieux = {}
+		}
+		c_mainneville = {
+			b_mainneville = {}
+		}
+		c_surin = {
+			b_surin = {}
+		}
+	}
+}
